@@ -34,7 +34,7 @@ Use the retrievePostsByAddress function with an author's address to fetch all po
 Features
 
 1. Post Struct
-2. 
+
 Each post includes:
 
 Author's address
@@ -46,7 +46,7 @@ Post content
 Timestamp of creation
 
 2. Event Logging
-3. 
+   
 The PostCreated event logs:
 
 Author's address
